@@ -1,6 +1,6 @@
 # QuickHelp
 
-**QuickHelp** is a mobile and web-based platform developed as a Final Year Project at FAST NUCES, Karachi. It connects clients with verified local service providers, simplifying the booking and management of household and event-related services such as catering, decoration, domestic help, and more.
+**QuickHelp** is a mobile and web-based platform developed as a Final Year Project at NUCES-FAST, Karachi. It connects clients with verified local service providers, simplifying the booking and management of household and event-related services such as catering, decoration, domestic help, and more.
 
 ![FYP POSTER IMAGE](poster.jpeg)
 
