@@ -53,6 +53,6 @@ QuickHelp addresses the gap in digital service hiring by offering a user-friendl
 - **Laiba Khan** – 21K-3179  
 
 **Supervisor:** Asst. Prof. Engr. Abdul Rahman  
-**Institution:** FAST School of Computing, NUCES Karachi  
+**Institution:** NUCES-FAST, Karachi  
 **Submission Date:** 15 May 2025
 
